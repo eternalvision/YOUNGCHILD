@@ -1,2 +1,2 @@
-# youngchild
-gh-page
+# YOUNGCHILD*
+Финальный проект Краматорской академии ШАГ
